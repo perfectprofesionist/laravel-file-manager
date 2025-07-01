@@ -1,4 +1,4 @@
-------- File Manager System -------
+# File Manager System
 
 Welcome to the **File Manager System** — a comprehensive, secure, and intuitive web-based platform designed for seamless file and folder management. Whether you are an individual, part of a small team, or a member of a large organization, this system empowers you to efficiently organize, share, and safeguard your digital assets. Built with scalability, flexibility, and security at its core, the File Manager System streamlines workflows, enhances collaboration, and ensures robust data protection.
 
